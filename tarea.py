@@ -13,7 +13,7 @@ while True:
     if opc==1:
         registrar_trabajador()
     elif opc==2:
-        pass
+        listar_trabajadores()
     elif opc==3:
         pass
     else:
